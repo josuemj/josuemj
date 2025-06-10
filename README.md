@@ -1,3 +1,8 @@
+👋 Hi there!
+I'm a Full-Stack Developer with a passion for crafting user-centric solutions. Currently working as a Front-End Developer and User Experience Analyst, I specialize in identifying user pain points and sketching out intuitive, scalable solutions. I'm a problem-solver at heart, driven by the desire to create meaningful digital experiences.
+
+I thrive in collaborative, fast-paced environments and am always open to working on disruptive projects that challenge the norm and push boundaries.
+
 Programming Languages
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
