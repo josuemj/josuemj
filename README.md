@@ -1,7 +1,13 @@
 👋 Hi there!
-I'm a Full-Stack Developer with a passion for crafting user-centric solutions. Currently working as a Front-End Developer and User Experience Analyst, I specialize in identifying user pain points and sketching out intuitive, scalable solutions. I'm a problem-solver at heart, driven by the desire to create meaningful digital experiences.
+I build user-centric, scalable web and mobile experiences. I enjoy turning user pain points into clear, elegant solutions — from discovery and UX flows to front-end implementations and API integrations. I thrive on collaboration, fast feedback loops, and projects that push boundaries.
 
-I thrive in collaborative, fast-paced environments and am always open to working on disruptive projects that challenge the norm and push boundaries.
+🚀 What I do
+
+- Research user needs, map pain points, and design intuitive interfaces.
+- Build polished front-end apps with React, TypeScript, Ionic / Flutter.
+- Implement backend APIs and services (FastAPI, Node.js).
+- Ship reliable software with automated testing and CI practices.
+- Mentor teammates and contribute to design ↔ engineering handoffs.
 
 Programming Languages
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
