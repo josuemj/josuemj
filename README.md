@@ -51,5 +51,4 @@ Tools and Services
 ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
-![josuemj's Stats](https://github-readme-stats.vercel.app/api?username=josuemj&theme=dark&show_icons=true&hide_border=false&count_private=true)
-![josuemj's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josuemj&theme=dark&show_icons=true&hide_border=false&layout=compact)
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=josuemj)](https://github.com/josuemj/github-readme-stats-fast)
